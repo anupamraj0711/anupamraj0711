@@ -18,7 +18,7 @@
 
 ### 💼 About Me
 
-I'm a third-year B.Tech CSE (AI Specialization) student at NIIT University, focused on backend development and AI-driven systems. I like building full-stack projects that actually solve a problem — from healthcare platforms to legal-tech NLP tools.
+I'm a final-year B.Tech CSE (AI Specialization) student at NIIT University, focused on backend development and AI-driven systems. I like building full-stack projects that actually solve a problem — from healthcare platforms to legal-tech NLP tools.
 
 - ⚙️ **Backend Engineering** — REST APIs, Node.js/Express, database design
 - 🧠 **AI/ML** — NLP pipelines, predictive models, LLM-based tools
