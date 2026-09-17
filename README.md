@@ -36,11 +36,11 @@ I'm a third-year B.Tech CSE (AI Specialization) student at NIIT University, focu
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js" />
+<img src="https://skillicons.dev/icons?i=python,js,java,SQL" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
 
 **Backend & Databases**
 
@@ -48,7 +48,7 @@ I'm a third-year B.Tech CSE (AI Specialization) student at NIIT University, focu
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws,vercel" />
 
 </div>
 
