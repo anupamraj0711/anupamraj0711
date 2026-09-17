@@ -1,8 +1,6 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Anupam%20Raj&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Software%20Developer&descAlignY=55&descSize=20)
+
 <div align="center">
-
-# Hi 👋, I'm Anupam Raj
-
-### Backend Developer | AI Enthusiast | Software Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anupamraj0711&color=blueviolet&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/anupamraj0711?label=Followers&style=flat&color=blue)](https://github.com/anupamraj0711)
@@ -36,7 +34,7 @@ I'm a third-year B.Tech CSE (AI Specialization) student at NIIT University, focu
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,java,SQL" />
+<img src="https://skillicons.dev/icons?i=python,js,java" />
 
 **Frontend**
 
