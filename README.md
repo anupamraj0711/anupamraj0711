@@ -32,29 +32,27 @@ I'm a third-year B.Tech CSE (AI Specialization) student at NIIT University, focu
 
 ### 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,js" />
 
 **Frontend**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+<img src="https://skillicons.dev/icons?i=react" />
 
 **Backend & Databases**
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
-**AI/ML & Tools**
+**Tools & Platforms**
 
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,git,github" />
+
+</div>
+
+**AI/ML Libraries:** Scikit-learn · Pandas · NumPy
 
 ---
 
@@ -77,6 +75,16 @@ I'm a third-year B.Tech CSE (AI Specialization) student at NIIT University, focu
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anupamraj0711&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupamraj0711&layout=compact&theme=radical)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/anupamraj0711/anupamraj0711/output/github-contribution-grid-snake.svg)
 
 </div>
 
