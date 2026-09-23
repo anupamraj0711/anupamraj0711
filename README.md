@@ -169,20 +169,6 @@ A hybrid hardware-software surveillance system integrating embedded devices with
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupamraj0711\&show_icons=true\&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anupamraj0711\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupamraj0711\&layout=compact\&theme=radical)
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
