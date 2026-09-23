@@ -48,6 +48,41 @@ I'm a final-year B.Tech CSE (AI Specialization) student at NIIT University, focu
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,aws,vercel" />
 
+## 🗄️ Database
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+</p>
+
+- SQL
+- MySQL
+- Database Management Systems
+- ER Modeling
+- Relational Database Design
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,aws,gcp,docker,linux" />
+
+</p>
+
+- Git & GitHub
+- Cloud Computing
+- Google Cloud
+- AWS Fundamentals
+- Linux
+- Shell Scripting
+- Virtual Machines
+- Basic DevOps Concepts
+
+---
+
 </div>
 
 **AI/ML Libraries:** Scikit-learn · Pandas · NumPy
