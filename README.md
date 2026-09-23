@@ -44,11 +44,11 @@ I'm currently focused on strengthening my skills for **Software Development, Bac
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js" />
+<img src="https://skillicons.dev/icons?i=python,js,java" />
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://skillicons.dev/icons?i=html,css,react,javascript" />
 
 ### Backend
 
@@ -204,9 +204,7 @@ A hybrid hardware-software surveillance system integrating embedded devices with
 
 # 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anupam--raj)
-
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:anupam.raj23@st.niituniversity.in)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam--raj) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anupam.raj23@st.niituniversity.in)
 
 <div align="center">
 
