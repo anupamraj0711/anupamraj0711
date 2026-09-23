@@ -15,10 +15,16 @@
 </div>
 
 ---
+# 👋 Hi, I'm Anupam Raj
 
-### 💼 About Me
+I'm a **Final-Year B.Tech Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning at NIIT University**.
 
-I'm a final-year B.Tech CSE (AI Specialization) student at NIIT University, focused on backend development and AI-driven systems. I like building full-stack projects that actually solve a problem — from healthcare platforms to legal-tech NLP tools.
+I enjoy building practical software and AI/ML solutions that combine **machine learning, backend development, data analytics, cloud technologies, and IoT**.
+I like building full-stack projects that actually solve a problem — from healthcare platforms to legal-tech NLP tools.
+
+I'm currently focused on strengthening my skills for **Software Development, AI/ML, Backend, DevOps and Cloud roles**.
+
+---
 
 - ⚙️ **Backend Engineering** — REST APIs, Node.js/Express, database design
 - 🧠 **AI/ML** — NLP pipelines, predictive models, LLM-based tools
